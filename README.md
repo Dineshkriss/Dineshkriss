@@ -2,7 +2,7 @@
 - 👀 I’m interested in "Every aspect" of coding and creating something from scratch
 - 🌱 I’m currently learning Cybersecurity
 - 📫 How to reach me : If you want to reach me on Instagram, the id is mr_kriss13
-- ⚡ Fun fact: I never get Good Haircut
+- ⚡ Fun fact: I never get a Good Haircut, Its usually not what I order for.
 
 <!---
 Dineshkriss/Dineshkriss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
